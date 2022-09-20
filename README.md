@@ -1,2 +1,2 @@
-# GitTraining
+# GitHubTraining
 test
